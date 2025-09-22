@@ -1,10 +1,13 @@
 # 🧩 LangGraph Examples
 
+<div align="center">
+   
 ![AI Agent](https://img.shields.io/badge/Ollama-Local_AI-orange?style=for-the-badge&logo=ollama)
 [![LangGraph](https://img.shields.io/badge/LangGraph-%F0%9F%A7%A9-blue?style=for-the-badge&logo=graph&logoColor=white)](https://github.com/langchain-ai/langgraph)
 ![LangChain](https://img.shields.io/badge/LangChain-%E2%9A%A1-green?style=for-the-badge&logo=chainlink&logoColor=white)
 [![LangSmith](https://img.shields.io/badge/LangSmith-%F0%9F%94%8D-yellow?style=for-the-badge&logo=graphql&logoColor=white)](https://smith.langchain.com/)
 
+</div>
 
 
 This repository contains a collection of Jupyter notebooks that demonstrate how to build AI workflows and agents using **[LangGraph](https://github.com/langchain-ai/langgraph)**.  
@@ -56,6 +59,11 @@ This project uses Python 3.9+ and the following libraries. You can install them 
 ```bash
 uv pip install -r requirements.txt
 ```
+<div align="center">
+
+⭐ **Star this repo if you found it helpful!** ⭐
+
+</div>
 
 
 
