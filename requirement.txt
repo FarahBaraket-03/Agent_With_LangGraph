@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-community
+importnb
+patchright
+python-dotenv
+lxml
+nest_asyncio
+playwright
+duckduckgo-search
+gradio
