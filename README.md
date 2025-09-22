@@ -1,5 +1,12 @@
 # 🧩 LangGraph Examples
 
+![AI Agent](https://img.shields.io/badge/Ollama-Local_AI-blue?style=for-the-badge&logo=ollama)
+![LangGraph](https://img.shields.io/badge/LangGraph-%F0%9F%A7%A9-green?style=for-the-badge&logo=graph&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-%E2%9A%A1-orange?style=for-the-badge&logo=chainlink&logoColor=white)
+[![LangSmith](https://img.shields.io/badge/LangSmith-%F0%9F%94%8D-purple?style=for-the-badge&logo=graphql&logoColor=white)](https://smith.langchain.com/)
+
+
+
 This repository contains a collection of Jupyter notebooks that demonstrate how to build AI workflows and agents using **[LangGraph](https://github.com/langchain-ai/langgraph)**.  
 The examples go step by step, starting from simple graphs to full-featured agents.
 
@@ -39,3 +46,4 @@ The examples go step by step, starting from simple graphs to full-featured agent
 ```bash
 git clone https://github.com/your-username/langgraph-examples.git
 cd langgraph-examples
+
